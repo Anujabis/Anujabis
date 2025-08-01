@@ -16,12 +16,12 @@ To get an opportunity where I can make the best of my potential and contribute t
 
 - Designed responsive web layouts and page structures made for content-first platforms.  
 - Created consistent visual identity themes:
-  - Soft, minimal tones for *CuriousClub.in*
+  - Soft, minimal tones for *[CuriousClub.in]([url](http://CuriousClub.in))*
   - Bright and culturally resonant palettes for *ChalisaSanchay.com*  
 - Developed featured images and blog banners for over **100+ articles**:
   - Educational content for *Curious Club*
   - Religious content for *Chalisa Sanchay*  
-- Produced web story slides ([Link 1]) & Reels ([Link 1], [Link 2]) for targeted audience communication.  
+- Produced web story slides ([Link 1]) & Reels ([Link 1], [[Link 2](url)]) for targeted audience communication.  
 - Created and managed engagement and conversion campaigns using **Meta Ads Manager** with full control over targeting, placements, and budgeting.  
 - Designed ad creatives (banners & reels) using Canva.  
   - Ad Creative Links: [1], [2], [3]  
