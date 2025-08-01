@@ -21,7 +21,7 @@ To get an opportunity where I can make the best of my potential and contribute t
 - Developed featured images and blog banners for over **100+ articles**:
   - Educational content for *Curious Club*
   - Religious content for *Chalisa Sanchay*  
-- Produced web story slides ([Link 1](https://chalisasanchay.com/web-stories/)) & Reels ([Link 1](https://www.instagram.com/reel/DMfmbxWvUWd/?utm_source=ig_web_copy_link&igsh=MXBoYnN3bzVxZnh1bQ==), [[Link 2](https://www.instagram.com/reel/DMNiNbFvW70/?utm_source=ig_web_copy_link&igsh=eGo2ZWFzd2YzaGlp) for targeted audience communication.  
+- Produced web story slides ([Link 1](https://chalisasanchay.com/web-stories/)) & Reels ([Link 1](https://www.instagram.com/reel/DMfmbxWvUWd/?utm_source=ig_web_copy_link&igsh=MXBoYnN3bzVxZnh1bQ==)), ([Link 2](https://www.instagram.com/reel/DMNiNbFvW70/?utm_source=ig_web_copy_link&igsh=eGo2ZWFzd2YzaGlp)) for targeted audience communication.  
 - Created and managed engagement and conversion campaigns using **Meta Ads Manager** with full control over targeting, placements, and budgeting.  
 - Designed ad creatives (banners & reels) using Canva.  
   - Ad Creative Links: [1](https://fb.me/1MHcGeMk2uaLoWM), [2](https://fb.me/adspreview/facebook/28S6JwNFWn8TMT7), [3](https://fb.me/adspreview/facebook/1VF8p91WGzv3nsd)  
