@@ -16,7 +16,7 @@ To get an opportunity where I can make the best of my potential and contribute t
 
 - Designed responsive web layouts and page structures made for content-first platforms.  
 - Created consistent visual identity themes:
-  - Soft, minimal tones for *[CuriousClub.in]([url](http://CuriousClub.in))*
+  - Soft, minimal tones for *([CuriousClub.in](http://CuriousClub.in))*
   - Bright and culturally resonant palettes for *ChalisaSanchay.com*  
 - Developed featured images and blog banners for over **100+ articles**:
   - Educational content for *Curious Club*
